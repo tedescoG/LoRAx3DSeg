@@ -1,0 +1,10 @@
+albumentations
+datasets
+evaluate
+matplotlib
+pandas
+peft
+pyml
+scikit-learn
+torch
+transformers
